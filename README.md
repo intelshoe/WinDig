@@ -1,4 +1,4 @@
-<p align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-c4bd5888bea21df127351a418a55bf51&f=1&nofb=1"></p>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fawgford.weebly.com%2Fuploads%2F3%2F2%2F1%2F4%2F32142243%2F7706050_orig.png"></p>
 
 WinDig - Windows 10 admin tools in Python 3.9
 =================================================
