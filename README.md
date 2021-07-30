@@ -4,7 +4,7 @@ Windows 10 tools in Python 3.9
 =================================================
 Tools to gather information on Windows 10 machines and help diagnose problems.
 
-Directory information:
+Table of Contents:
 <ul><li>Information gathering:</li>
 <ul><li><a href="https://github.com/intelshoe/WinTools-Python/blob/main/sysinfo.py">Generate basic system information about the current Windows machine.</li>
 </ul>
