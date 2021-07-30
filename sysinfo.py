@@ -1,7 +1,7 @@
 import platform  
 import os  
 import sys
-# to Get IP Address
+# to Get IP Address and pc name
 import socket
 
 print('============================')
